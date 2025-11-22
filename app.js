@@ -4,7 +4,7 @@ import {
     fusionarCatalogos,
     procesarCompra,
     estadisticas,
-    // configFinal
+    configFinal
 } from "./modulos/barril.js";
 
 let opcion;
