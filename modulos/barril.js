@@ -1,5 +1,6 @@
-export {  } from "./modulos/ejercicio1.js";
-export {  } from "./modulos/ejercicio2.js";
-export {  } from "./modulos/ejercicio3.js";
-export {  } from "./modulos/ejercicio4.js";
-export {  } from "./modulos/ejercicio5.js";
+// exporto funciones reales
+export { crearEstudiante } from "./ejercicio_1.js";
+export { fusionarCatalogos } from "./ejercicio_2.js";
+// export { procesarCompra } from "./ejercicio_3.js";
+// export { estadisticas } from "./ejercicio_4.js";
+// export { configFinal } from "./ejercicio_5.js";
