@@ -2,7 +2,7 @@
 import {
     crearEstudiante,
     fusionarCatalogos,
-    // procesarCompra,
+    procesarCompra,
     // estadisticas,
     // configFinal
 } from "./modulos/barril.js";
